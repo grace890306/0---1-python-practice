@@ -1,5 +1,5 @@
 #參考同學解答＋gpt修改
-a, b = int(input()), int(input())  # 輸入範圍的起始值和結束值
+a, b = int(input()), int(input())  # 輸入範圍的起始值和結束值 
 
 s = []  # 用於儲存自除數的列表
 
